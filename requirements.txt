@@ -1,0 +1,14 @@
+# Numerical and scientific computing
+numpy>=2.0,<3
+pandas>=2.2,<3
+scipy>=1.14,<2
+
+# Machine learning and visualization
+scikit-learn>=1.5,<2
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+
+# Notebook environment
+jupyterlab>=4.2,<5
+ipykernel>=6.29,<7
+nbconvert>=7.16,<8
