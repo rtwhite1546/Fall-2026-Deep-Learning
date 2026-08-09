@@ -1,5 +1,5 @@
 # Numerical and scientific computing
-numpy>=2.0,<3
+numpy>=2.0,<2.3
 pandas>=2.2,<3
 scipy>=1.14,<2
 
