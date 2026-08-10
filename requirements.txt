@@ -1,3 +1,6 @@
+# CUDA 12.8 wheels for the repository's NVIDIA GPU environment.
+--extra-index-url https://download.pytorch.org/whl/cu128
+
 # Numerical and scientific computing
 numpy>=2.0,<2.3
 pandas>=2.2,<3
@@ -7,8 +10,8 @@ scipy>=1.14,<2
 scikit-learn>=1.5,<2
 matplotlib>=3.9,<4
 seaborn>=0.13,<1
-torch>=2.5,<3
-torchvision>=0.20,<1
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
 
 # Notebook environment
 jupyterlab>=4.2,<5
