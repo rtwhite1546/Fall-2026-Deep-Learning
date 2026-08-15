@@ -18,3 +18,6 @@ jupyterlab>=4.2,<5
 ipykernel>=6.29,<7
 nbconvert>=7.16,<8
 ipywidgets>=8.1,<9
+
+# Pretrained BERT/GPT examples in Week 14
+transformers>=5.5,<6
